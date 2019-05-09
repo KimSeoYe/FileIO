@@ -34,7 +34,7 @@ public class UsingInputStream {
 
         inputStream2.close();
 
-        /*
+        
         //-------------- Test reading 100 MB file. --------------------
 
         StopWatch.start();
@@ -47,6 +47,7 @@ public class UsingInputStream {
         
         inputStream3.close();
 
+        /*
         //-------------- Test reading 1000 MB file. --------------------
 
         StopWatch.start();

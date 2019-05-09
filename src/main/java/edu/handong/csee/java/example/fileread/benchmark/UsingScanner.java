@@ -37,7 +37,7 @@ public class UsingScanner {
         
         scanner2.close();
 
-        /*
+        
         //-------------- Test reading 100 MB file. --------------------
         StopWatch.start();
 
@@ -48,7 +48,8 @@ public class UsingScanner {
         System.out.println(duration3 + " milsec");
         
         scanner3.close();
-
+        
+        /*
         //-------------- Test reading 1000 MB file. --------------------
         StopWatch.start();
 
